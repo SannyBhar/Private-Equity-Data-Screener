@@ -1,0 +1,19 @@
+company_name,domain,sector,sub_sector,headquarters,source_type
+HubSpot,hubspot.com,B2B SaaS,CRM,"Cambridge, MA",seed
+Datadog,datadoghq.com,B2B SaaS,Observability,"New York, NY",seed
+Snowflake,snowflake.com,B2B SaaS,Data Platform,"Bozeman, MT",seed
+Atlassian,atlassian.com,B2B SaaS,Developer Tools,"Sydney, AU",seed
+Asana,asana.com,B2B SaaS,Work Management,"San Francisco, CA",seed
+Monday.com,monday.com,B2B SaaS,Work OS,"Tel Aviv, IL",seed
+Cloudflare,cloudflare.com,B2B SaaS,Security,"San Francisco, CA",seed
+CrowdStrike,crowdstrike.com,B2B SaaS,Cybersecurity,"Austin, TX",seed
+Okta,okta.com,B2B SaaS,Identity,"San Francisco, CA",seed
+ServiceNow,servicenow.com,B2B SaaS,Enterprise Workflow,"Santa Clara, CA",seed
+MongoDB,mongodb.com,B2B SaaS,Database,"New York, NY",seed
+ZoomInfo,zoominfo.com,B2B SaaS,Sales Intelligence,"Vancouver, WA",seed
+UiPath,uipath.com,B2B SaaS,Automation,"New York, NY",seed
+Workday,workday.com,B2B SaaS,HCM,"Pleasanton, CA",seed
+Smartsheet,smartsheet.com,B2B SaaS,Collaboration,"Bellevue, WA",seed
+Freshworks,freshworks.com,B2B SaaS,Customer Engagement,"San Mateo, CA",seed
+GitLab,gitlab.com,B2B SaaS,DevOps,"San Francisco, CA",seed
+SentinelOne,sentinelone.com,B2B SaaS,Cybersecurity,"Mountain View, CA",seed
