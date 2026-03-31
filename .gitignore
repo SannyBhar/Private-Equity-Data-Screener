@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+.DS_Store
+
+# Runtime artifacts
+data/raw/html_cache/*.html
+data/raw/news_raw/*.xml
+data/processed/*.csv
+
+# SQLite runtime DB
+data/sqlite/pe_screener.db
